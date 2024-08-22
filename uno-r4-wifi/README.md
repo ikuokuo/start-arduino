@@ -13,3 +13,7 @@
   - [rtc_ntp](tutorials/rtc_ntp/rtc_ntp.ino)
 - [Analog-to-Digital Converter (ADC)](https://docs.arduino.cc/tutorials/uno-r4-wifi/adc-resolution)
   - [adc](tutorials/adc/adc.ino)
+- [Digital-to-Analog Converter (DAC)](https://docs.arduino.cc/tutorials/uno-r4-wifi/dac)
+  - [dac](tutorials/dac/dac.ino)
+  - [dac_jacques](tutorials/dac_jacques/dac_jacques.ino)
+  - [dac_piano](tutorials/dac_piano/dac_piano.ino)
