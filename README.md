@@ -11,3 +11,4 @@
   - [rtc](rtc/rtc.ino)
   - [rtc_periodic](rtc_periodic/rtc_periodic.ino)
   - [rtc_alarm](rtc_alarm/rtc_alarm.ino)
+  - [rtc_ntp](rtc_ntp/rtc_ntp.ino)
