@@ -17,3 +17,5 @@
   - [dac](tutorials/dac/dac.ino)
   - [dac_jacques](tutorials/dac_jacques/dac_jacques.ino)
   - [dac_piano](tutorials/dac_piano/dac_piano.ino)
+- [USB HID](https://docs.arduino.cc/tutorials/uno-r4-wifi/usb-hid)
+  - [usb_hid](tutorials/usb_hid/usb_hid.ino)
