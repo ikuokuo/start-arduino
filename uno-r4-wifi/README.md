@@ -22,3 +22,7 @@
   - [eeprom_guide](tutorials/eeprom_guide/eeprom_guide.ino)
 - [USB HID](https://docs.arduino.cc/tutorials/uno-r4-wifi/usb-hid)
   - [usb_hid](tutorials/usb_hid/usb_hid.ino)
+- [WiFi Network](https://docs.arduino.cc/tutorials/uno-r4-wifi/wifi-examples)
+  - [wifi_ap](tutorials/wifi_ap/wifi_ap.ino)
+  - [wifi_wpa](tutorials/wifi_wpa/wifi_wpa.ino)
+  - [wifi_web](tutorials/wifi_web/wifi_web.ino)
