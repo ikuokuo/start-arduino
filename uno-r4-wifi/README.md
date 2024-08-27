@@ -31,3 +31,4 @@
 
 - [Blink an LED](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay)
   - [blink_led](examples/blink_led/blink_led.ino)
+  - [blink_leds](examples/blink_leds/blink_leds.ino)
