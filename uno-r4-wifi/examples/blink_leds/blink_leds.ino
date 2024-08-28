@@ -1,5 +1,7 @@
 /*
   Blink 6 leds sequentially connected to digital pin 2-7.
+
+  Schematic: blink_leds.png
 */
 
 void setup() {
