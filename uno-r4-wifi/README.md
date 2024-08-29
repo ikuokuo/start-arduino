@@ -32,3 +32,6 @@
 - [Blink an LED](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay)
   - [blink_led](examples/blink_led/blink_led.ino), [schematic](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/#schematic)
   - [blink_leds](examples/blink_leds/blink_leds.ino), [schematic*](examples/blink_leds/blink_leds.png)
+- [Button](https://docs.arduino.cc/built-in-examples/digital/Button)
+  - [button](examples/button/button.ino), [schematic](https://docs.arduino.cc/built-in-examples/digital/Button/#schematic)
+  - [button_switch](examples/button_switch/button_switch.ino), [schematic](https://docs.arduino.cc/built-in-examples/digital/Button/#schematic)
