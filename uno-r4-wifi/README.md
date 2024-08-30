@@ -35,3 +35,5 @@
 - [Button](https://docs.arduino.cc/built-in-examples/digital/Button)
   - [button](examples/button/button.ino), [schematic](https://docs.arduino.cc/built-in-examples/digital/Button/#schematic)
   - [button_switch](examples/button_switch/button_switch.ino), [schematic](https://docs.arduino.cc/built-in-examples/digital/Button/#schematic)
+- [Fade an LED](https://docs.arduino.cc/built-in-examples/analog/Fading)
+  - [fade_led](examples/fade_led/fade_led.ino), [schematic](https://docs.arduino.cc/built-in-examples/analog/Fading/#schematic)
