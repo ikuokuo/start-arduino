@@ -41,3 +41,5 @@
 - [Adjust an LED](https://docs.arduino.cc/built-in-examples/analog/AnalogInOutSerial)
   - [adjsut_led](examples/adjsut_led/adjsut_led.ino), [schematic](https://docs.arduino.cc/built-in-examples/analog/AnalogInOutSerial//#schematic)
   - [adjsut_fade_led](examples/adjsut_fade_led/adjsut_fade_led.ino), [schematic](https://docs.arduino.cc/built-in-examples/analog/AnalogInOutSerial//#schematic)
+- [Tone on Speaker](https://docs.arduino.cc/built-in-examples/digital/toneMultiple)
+  - [tone_speaker](examples/tone_speaker/tone_speaker.ino), [schematic*](examples/tone_speaker/tone_speaker.png)
