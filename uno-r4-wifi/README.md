@@ -43,3 +43,4 @@
   - [adjsut_fade_led](examples/adjsut_fade_led/adjsut_fade_led.ino), [schematic](https://docs.arduino.cc/built-in-examples/analog/AnalogInOutSerial//#schematic)
 - [Tone on Speaker](https://docs.arduino.cc/built-in-examples/digital/toneMultiple)
   - [tone_speaker](examples/tone_speaker/tone_speaker.ino), [schematic*](examples/tone_speaker/tone_speaker.png)
+  - [tone_speaker2](examples/tone_speaker2/tone_speaker2.ino), [schematic*](examples/tone_speaker2/tone_speaker2.png)
